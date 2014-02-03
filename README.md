@@ -3,15 +3,11 @@ DipTrace
 
 Custom DipTrace Patterns, Components and 3D Models by timb
 
-**Patterns**
+**Patterns for PCB Layout** [*timb.lib*]
 
- * LEGO NXT 6P6C Connector
+ * LEGO NXT 6P6C Connector [3D: *NXT-6P6C.wrl*]
  * Spark Core
 
-**Components**
+**Components for Schematic Capture** [*timb.eli*]
 
  * MSP430FR5739_RHA
-
-**3D Models**
-
- * LEGO NXT 6P6C Connector
